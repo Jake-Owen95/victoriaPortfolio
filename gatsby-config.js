@@ -90,7 +90,7 @@ module.exports = {
         background_color: '#ffffff',
         theme_color: '#ffffff',
         display: 'minimal-ui',
-        icon: './static/images/favicon.png',
+        icon: './static/images/vicsLogo.png',
       },
     },
     'gatsby-plugin-offline',
