@@ -19,11 +19,11 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'GCN',
+    title: 'VDC',
     description:
-      'A starter template to build amazing static websites with Gatsby, Contentful and Netlify',
-    siteUrl: 'https://gcn.netlify.com',
-    image: '/images/share.jpg',
+      'Vicoria de la Cour portfolio web site. ',
+    siteUrl: 'https://gracious-jennings-82eb4c.netlify.app/',
+    image: '/images/vicsLogo.png',
     menuLinks: [
       {
         name: 'Home',
