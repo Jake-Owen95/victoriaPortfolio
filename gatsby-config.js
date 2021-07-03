@@ -1,3 +1,5 @@
+
+
 let contentfulConfig
 try {
   contentfulConfig = require('./.contentful')
