@@ -21,7 +21,7 @@ const PostDetails = props => {
   return (
     <Wrapper>
       <Date>📅 {props.date}</Date>
-      <span>•</span>
+      <span></span>
       
     </Wrapper>
   )
