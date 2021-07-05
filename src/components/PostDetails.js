@@ -19,11 +19,12 @@ const ReadingTime = styled.p`
 
 const PostDetails = props => {
   return (
-    <Wrapper>
-      <Date>📅 {props.date}</Date>
-      <span>•</span>
+    //DATE STUFF HERE:
+    // <Wrapper>
+    //   <Date>📅 {props.date}</Date>
+    //   <span>•</span>
       
-    </Wrapper>
+    // </Wrapper>
   )
 }
 
