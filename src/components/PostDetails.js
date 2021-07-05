@@ -19,7 +19,7 @@ const Date = styled.p`
 
 // const PostDetails = props => {
 //   return (
-//     //DATE STUFF HERE:
+//     DATE STUFF HERE:
 //     <Wrapper>
 //       <Date>📅 {props.date}</Date>
 //       <span>•</span>
