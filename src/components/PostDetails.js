@@ -13,19 +13,19 @@ const Date = styled.p`
   display: inline-block;
 `
 
-const ReadingTime = styled.p`
-  display: inline-block;
-`
+// const ReadingTime = styled.p`
+//   display: inline-block;
+// `
 
-const PostDetails = props => {
-  return (
-    //DATE STUFF HERE:
-    // <Wrapper>
-    //   <Date>📅 {props.date}</Date>
-    //   <span>•</span>
+// const PostDetails = props => {
+//   return (
+//     //DATE STUFF HERE:
+//     <Wrapper>
+//       <Date>📅 {props.date}</Date>
+//       <span>•</span>
       
-    // </Wrapper>
-  )
-}
+//     </Wrapper>
+//   )
+// }
 
 export default PostDetails
