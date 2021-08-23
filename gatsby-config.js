@@ -38,6 +38,14 @@ module.exports = {
         slug: '/portfolio/',
       },
       {
+        name: 'Testimonials',
+        slug: '/testimonials/',
+      },
+      {
+        name: 'Media Features',
+        slug: '/media features/',
+      },
+      {
         name: 'Contact',
         slug: '/contact/',
       },
