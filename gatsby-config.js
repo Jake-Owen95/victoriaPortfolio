@@ -19,7 +19,7 @@ try {
 
 module.exports = {
   siteMetadata: {
-    title: 'VDC',
+    title: 'VDLC',
     description:
       'Vicoria de la Cour portfolio web site. ',
     siteUrl: 'https://gracious-jennings-82eb4c.netlify.app/',
