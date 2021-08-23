@@ -42,8 +42,8 @@ module.exports = {
         slug: '/testimonials/',
       },
       {
-        name: 'Media Features',
-        slug: '/media features/',
+        name: 'Media',
+        slug: '/media/',
       },
       {
         name: 'Contact',
