@@ -26,12 +26,16 @@ module.exports = {
     image: '/images/vicsLogo.png',
     menuLinks: [
       {
-        name: 'Home',
+        name: 'VDLC',
         slug: '/',
       },
       {
         name: 'About',
         slug: '/about/',
+      },
+      {
+        name: 'Portfolio',
+        slug: '/portfolio/',
       },
       {
         name: 'Contact',
