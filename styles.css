@@ -67,7 +67,16 @@ body {
   align-items: center;
   justify-content: center;
   color: white;
-  margin-top: 10%;
+
+  h1 {
+    font-size: 50px;
+  }
+
+  p {
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+  }
 }
 
 .menu-button:hover {
@@ -131,7 +140,38 @@ header .cover-image .menu-button:hover {
     }
   }
 
+  h1 {
+    position: relative;
+    animation: slidingH1 1s;
+  }
+
+  h2 {
+    position: relative;
+    animation: slidingH2 2s;
+  }
+
+  h3 {
+    position: relative;
+    animation: slidingH3 3s;
+  }
+
 }
+
+/* Animation */
+@keyframes slidingH1 {
+  from {left: 350%;}
+  to {left: 0%}
+} 
+
+@keyframes slidingH2 {
+  from {left: 350%;}
+  to {left: 0%}
+} 
+
+@keyframes slidingH3 {
+  from {left: 350%;}
+  to {left: 0%}
+} 
 
 /* Responsive Design */
 @media (max-width: 768px) {
